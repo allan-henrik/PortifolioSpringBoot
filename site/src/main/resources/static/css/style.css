@@ -11,7 +11,15 @@ body{
   font-weight: 400;
   font-style: normal;
 }
-
+.linguagem{
+  display:flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+.linguagem h2{
+  padding-right: 0.5rem;
+}
 
 
 h1{
